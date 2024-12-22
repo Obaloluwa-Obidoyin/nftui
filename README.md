@@ -1,16 +1,21 @@
-# nftui
-
-A new Flutter project.
+# Flutter Nft UI
 
 ## Getting Started
+Clone this repo then run
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+```
+and 
 
-A few resources to get you started if this is your first Flutter project:
+```
+flutter run
+```
+# screenshot 1
+![Screenshot_1734905103](https://github.com/user-attachments/assets/e5e051c7-6096-47db-8911-812f14b481d8)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# screenshot 2
+![Screenshot_1734904930](https://github.com/user-attachments/assets/5377501e-549a-4ba3-8e59-ace33afb6d70)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# screenshot 3
+![Screenshot_1734904935](https://github.com/user-attachments/assets/0db38dd6-e6b7-4a42-be0d-7f178e922c3d)
