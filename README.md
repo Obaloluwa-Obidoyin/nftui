@@ -3,12 +3,12 @@
 ## Getting Started
 Clone this repo then run
 
-```
+```dart
 flutter pub get
 ```
 and 
 
-```
+```dart
 flutter run
 ```
 # screenshot 1
